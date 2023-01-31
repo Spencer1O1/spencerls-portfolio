@@ -1,0 +1,35 @@
+/* THEME */
+/* Dark:  140A1F   3D3D66   2C4F8C   71092F */
+/* Normal: 27143D   7272AB   7899D4   D81159 */
+/* Light: 592D8B   A6A6C9   B1C5E7   F1558E */
+
+.App {
+  text-align: center;
+  position: absolute;
+  bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.logo {
+  height: 2.5rem;
+  -webkit-user-drag: none;
+  -khtml-user-drag: none;
+  -moz-user-drag: none;
+  -o-user-drag: none;
+}
+
+.container {
+  margin: 0;
+  padding: 0;
+  background-color: #140A1F;
+  position: absolute;
+  bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+
+
